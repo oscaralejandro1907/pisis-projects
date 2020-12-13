@@ -1,0 +1,149 @@
+\begin{thebibliography}{22}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Adams et~al.(1988)Adams, Balas, and Zawack]{adams1988shifting}
+Joseph Adams, Egon Balas, and Daniel Zawack.
+\newblock The shifting bottleneck procedure for job shop scheduling.
+\newblock \emph{Management science}, 34\penalty0 (3):\penalty0 391--401, 1988.
+
+\bibitem[Blazewicz et~al.(1991)Blazewicz, Dror, and
+  Weglarz]{blazewicz1991mathematical}
+Jacek Blazewicz, Moshe Dror, and Jan Weglarz.
+\newblock Mathematical programming formulations for machine scheduling: A
+  survey.
+\newblock \emph{European Journal of Operational Research}, 51\penalty0
+  (3):\penalty0 283--300, 1991.
+
+\bibitem[Fisher(1973)]{fisher1973optimal}
+Marshall~L Fisher.
+\newblock Optimal solution of scheduling problems using lagrange multipliers:
+  Part i.
+\newblock \emph{Operations Research}, 21\penalty0 (5):\penalty0 1114--1127,
+  1973.
+
+\bibitem[Fox and McMahon(1991)]{fox1991genetic}
+BR~Fox and MB~McMahon.
+\newblock Genetic operators for sequencing problems.
+\newblock In \emph{Foundations of genetic algorithms}, volume~1, pages
+  284--300. Elsevier, 1991.
+
+\bibitem[Hartmanis(1982)]{hartmanis1982computers}
+Juris Hartmanis.
+\newblock Computers and intractability: a guide to the theory of
+  np-completeness (michael r. garey and david s. johnson).
+\newblock \emph{Siam Review}, 24\penalty0 (1):\penalty0 90, 1982.
+
+\bibitem[Ishibuchi et~al.(1994)Ishibuchi, Yamamoto, Murata, and
+  Tanaka]{ishibuchi1994genetic}
+Hisao Ishibuchi, Naohisa Yamamoto, Tadahiko Murata, and Hideo Tanaka.
+\newblock Genetic algorithms and neighborhood search algorithms for fuzzy
+  flowshop scheduling problems.
+\newblock \emph{Fuzzy Sets and systems}, 67\penalty0 (1):\penalty0 81--100,
+  1994.
+
+\bibitem[Kan(2012)]{kan2012machine}
+AHG~Rinnooy Kan.
+\newblock \emph{Machine scheduling problems: classification, complexity and
+  computations}.
+\newblock Springer Science \& Business Media, 2012.
+
+\bibitem[Lee and Wu(2009)]{lee2009some}
+Wen-Chiung Lee and Chin-Chia Wu.
+\newblock Some single-machine and m-machine flowshop scheduling problems with
+  learning considerations.
+\newblock \emph{Information Sciences}, 179\penalty0 (22):\penalty0 3885--3892,
+  2009.
+
+\bibitem[Manne(1960)]{manne1960job}
+Alan~S Manne.
+\newblock On the job-shop scheduling problem.
+\newblock \emph{Operations Research}, 8\penalty0 (2):\penalty0 219--223, 1960.
+
+\bibitem[Murata et~al.(1996)Murata, Ishibuchi, and Tanaka]{murata1996genetic}
+Tadahiko Murata, Hisao Ishibuchi, and Hideo Tanaka.
+\newblock Genetic algorithms for flowshop scheduling problems.
+\newblock \emph{Computers \& Industrial Engineering}, 30\penalty0 (4):\penalty0
+  1061--1071, 1996.
+
+\bibitem[Osman and Potts(1989)]{osman1989simulated}
+Ibrahim~H Osman and CN~Potts.
+\newblock Simulated annealing for permutation flow-shop scheduling.
+\newblock \emph{Omega}, 17\penalty0 (6):\penalty0 551--557, 1989.
+
+\bibitem[Pinedo(2012)]{pinedo2012scheduling}
+Michael Pinedo.
+\newblock \emph{Scheduling}.
+\newblock Springer, 2012.
+
+\bibitem[Potts and Van~Wassenhove(1992)]{potts1992integrating}
+Chris~N Potts and Luk~N Van~Wassenhove.
+\newblock Integrating scheduling with batching and lot-sizing: a review of
+  algorithms and complexity.
+\newblock \emph{Journal of the Operational Research Society}, 43\penalty0
+  (5):\penalty0 395--406, 1992.
+
+\bibitem[Potts and Baker(1989)]{potts1989flow}
+CN~Potts and KR~Baker.
+\newblock Flow shop scheduling with lot streaming.
+\newblock \emph{Operations research letters}, 8\penalty0 (6):\penalty0
+  297--303, 1989.
+
+\bibitem[Reeves(1995)]{reeves1995genetic}
+Colin~R Reeves.
+\newblock A genetic algorithm for flowshop sequencing.
+\newblock \emph{Computers \& operations research}, 22\penalty0 (1):\penalty0
+  5--13, 1995.
+
+\bibitem[Taillard(1990)]{taillard1990some}
+Eric Taillard.
+\newblock Some efficient heuristic methods for the flow shop sequencing
+  problem.
+\newblock \emph{European journal of Operational research}, 47\penalty0
+  (1):\penalty0 65--74, 1990.
+
+\bibitem[Tavakkoli-Moghaddam et~al.(2007)Tavakkoli-Moghaddam, Rahimi-Vahed, and
+  Mirzaei]{tavakkoli2007hybrid}
+Reza Tavakkoli-Moghaddam, Alireza Rahimi-Vahed, and Ali~Hossein Mirzaei.
+\newblock A hybrid multi-objective immune algorithm for a flow shop scheduling
+  problem with bi-objectives: weighted mean completion time and weighted mean
+  tardiness.
+\newblock \emph{Information Sciences}, 177\penalty0 (22):\penalty0 5072--5090,
+  2007.
+
+\bibitem[Vallada et~al.(2015)Vallada, Ruiz, and Framinan]{vallada2015new}
+Eva Vallada, Rub{\'e}n Ruiz, and Jose~M Framinan.
+\newblock New hard benchmark for flowshop scheduling problems minimising
+  makespan.
+\newblock \emph{European Journal of Operational Research}, 240\penalty0
+  (3):\penalty0 666--677, 2015.
+
+\bibitem[Wagner(1959)]{wagner1959integer}
+Harvey~M Wagner.
+\newblock An integer linear-programming model for machine scheduling.
+\newblock \emph{Naval Research Logistics Quarterly}, 6\penalty0 (2):\penalty0
+  131--140, 1959.
+
+\bibitem[Whitley(1994)]{whitley1994genetic}
+Darrell Whitley.
+\newblock A genetic algorithm tutorial.
+\newblock \emph{Statistics and computing}, 4\penalty0 (2):\penalty0 65--85,
+  1994.
+
+\bibitem[Widmer and Hertz(1989)]{widmer1989new}
+Marino Widmer and Alain Hertz.
+\newblock A new heuristic method for the flow shop sequencing problem.
+\newblock \emph{European Journal of Operational Research}, 41\penalty0
+  (2):\penalty0 186--193, 1989.
+
+\bibitem[Yin et~al.(2009)Yin, Xu, Sun, and Li]{yin2009some}
+Yunqiang Yin, Dehua Xu, Kaibiao Sun, and Hongxing Li.
+\newblock Some scheduling problems with general position-dependent and
+  time-dependent learning effects.
+\newblock \emph{Information Sciences}, 179\penalty0 (14):\penalty0 2416--2425,
+  2009.
+
+\end{thebibliography}
